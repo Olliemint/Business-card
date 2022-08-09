@@ -26,5 +26,15 @@ left: 65px;
 top: 53px;
 
 background: #23252C;
+display: flex;
+justify-content: center;
 
+}
+
+.info-data{
+  width: 317px;
+  padding-top: 44px;
+}
+.whole-data{
+  background: #1A1B21;
 }
